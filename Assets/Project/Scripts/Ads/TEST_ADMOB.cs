@@ -1,0 +1,1 @@
+﻿#define TEST_ADMOB

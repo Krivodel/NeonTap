@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcfcb495006539c4db8cda79832bd0ed, type: 3}
+  m_Name: GemSound
+  m_EditorClassIdentifier: 
+  AudioSource: {fileID: 0}
+  TakenSound: {fileID: 8300000, guid: 491c40d00fae48b4f8a1e8ac82ae8152, type: 3}
+  DestroySound: {fileID: 8300000, guid: 06f6f6b7331667c4481827b00689ac74, type: 3}

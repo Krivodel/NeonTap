@@ -1,0 +1,14 @@
+using UnityEngine;
+
+using Project.Components;
+
+namespace Project.Systems
+{
+    internal sealed class #SCRIPTNAME# : SystemBase
+    {
+        protected override void OnCreate()
+        {
+            
+        }
+    }
+}
